@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Te Maru o Mauao Māori Basketball Webstie
 colors: colors-a
-date: '2021-08-27'
+date: '0202-08-27'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
